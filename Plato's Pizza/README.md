@@ -144,7 +144,9 @@ Streamlining Ingredient Management for Cost Savings
 
 ***
 
+- The data used in this analysis is dummy data obtained from the following source:  [Maven Pizza Challenge](https://www.mavenanalytics.io/blog/maven-pizza-challenge). This dataset is for educational and portfolio purposes only and does not represent real business data.
+
 - See the raw data and my cleaning, analysis, and pivot tables in the [Excel workbook](Exploration/bytex_ecommerce_analysis.xlsx).
-- See my SQL queries in the [SQL file](Exploration/ecommerce_exploration.sql).
+- See my SQL queries in the [SQL file](Exploration/raw_data).
 - See the notebook for data cleaning, visualization, and analysis in the [Python Notebook](Exploration/ecommerce_analysis.ipynb).
 - For more of my projects and data journey, visit my [portfolio website and reach out](https://ruizdelcarmen.me/)!
