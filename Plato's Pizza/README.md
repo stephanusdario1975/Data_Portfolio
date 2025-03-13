@@ -19,13 +19,13 @@ Table of Contents
 
 Plato's Pizza is a well-established Greek-inspired pizzeria located in New Jersey, recognized for its authentic flavors and high-quality ingredients. I have been hired to assist the restaurant in optimizing its operations by analyzing transactional data collected in 2015 and providing strategic recommendations for improvement.
 
-![Plato's Pizza Operational Analysis Dashboard](Data/visualization/Dashboard.png)
+![Plato's Pizza Operational Analysis Dashboard](Data/visualizations/Dashboard.png)
 
 ## Executive Summary
 
 Plato’s Pizza has achieved 21.4K total orders, selling 49.6K pizzas and generating $801.94K in revenue, with an average of 2.32 pizzas per order and $16.49 per pizza. Sales data highlights weekday lunch and weekend dinner as peak hours, requiring optimized staffing and preparation to maintain efficiency and service quality. The Classic Deluxe Pizza and Thai Chicken Pizza lead in sales and revenue, reinforcing the need to prioritize Supreme and Classic pizzas, particularly large and medium sizes, which dominate customer preference. Additionally, bulk purchasing of high-usage ingredients like garlic and tomatoes can improve cost efficiency, while reducing reliance on unique ingredients used in a single menu—especially in Veggie and Chicken pizzas, which underperform in revenue contribution. Implementing these strategies will enhance operational efficiency, maximize profitability, and streamline ingredient management.
 
-![Plato's Pizza Operational Analysis Dataset ERD](Data/visualizations/ecommerce_ERD.webp)
+![Plato's Pizza Operational Analysis Dataset ERD](Data/visualizations/ecommerce_ERD.png)
 
 ## Insights Deep-Dive
 
@@ -38,10 +38,16 @@ Plato’s Pizza has achieved 21.4K total orders, selling 49.6K pizzas and genera
 - The Thai Chicken Pizza ranks highest in revenue generation at $42,332.25, signifying its premium pricing or high demand.
 - The Brie Carre Pizza struggles in both sales and revenue, with only 490 units sold and $11,352 in revenue, suggesting limited customer appeal or inefficient pricing relative to cost.
 
-![Operational KPI](Data/visualizations/annual_sales.webp)
-![Top-Performing Menu](Data/visualizations/monthly_metrics.webp)
-![Lowest-Performing Menu](Data/visualizations/monthly_metrics.webp)
+<p align="center">
+  <img src="Data/visualizations/Operational_KPI.png" alt="Operational KPI">
+</p>
+<p align="center">
+  <img src="Data/visualizations/Top_Performing_Menu.png" alt="Top-Performing Menu">
+</p>
 
+<p align="center">
+  <img src="Data/visualizations/Lowest_Performing_Menu.png" alt="Lowest-Performing Menu">
+</p>
 
 ### Sales Peak Analysis
 
@@ -50,8 +56,14 @@ Plato’s Pizza has achieved 21.4K total orders, selling 49.6K pizzas and genera
 - Operational Preparedness: Staff should prioritize preparation before peak hours, ensuring seamless service flow and minimizing wait times during high-traffic periods.
 - Enhanced Efficiency Measures: Streamlining pizza preparation and workflow during peak hours can improve service speed, customer satisfaction, and overall operational efficiency.
 
-![Total Pizza Sold Hourly per Day](Data/visualizations/product_performance.webp)
-![Daily Total Order](Data/visualizations/product_performance.webp)
+<p align="center">
+  <img src="Data/visualizations/Total_Pizza_Sold_Hourly_per_Day.png" alt="Total Pizza Sold Hourly per Day">
+</p>
+
+<p align="center">
+  <img src="Data/visualizations/Daily_Total_Order.png" alt="Daily Total Order">
+</p>
+
 
 ### Menu Analysis
 
@@ -61,9 +73,18 @@ Plato’s Pizza has achieved 21.4K total orders, selling 49.6K pizzas and genera
 - Strategic Marketing Approach: Special promotions or targeted marketing strategies should emphasize these high-performing pizzas and popular sizes to maximize profitability.
 - Menu Streamlining Opportunity: Focusing on best-selling items and preferred sizes while minimizing less popular variations can enhance operational efficiency and reduce costs.
 
-![Sales and Revenue Correlation by Pizza Category](Data/visualizations/customer_retention.webp)
-![Pizza Sales Breakdown by Category](Data/visualizations/customer_retention.webp)
-![Sales Distribution by Pizza Size](Data/visualizations/customer_retention.webp)
+<p align="center">
+  <img src="Data/visualizations/Sales_and_Revenue_Correlation_by_Pizza_Category.png" alt="Sales and Revenue Correlation by Pizza Category">
+</p>
+
+<p align="center">
+  <img src="Data/visualizations/Pizza_Sales_Breakdown_by_Category.png" alt="Pizza Sales Breakdown by Category">
+</p>
+
+<p align="center">
+  <img src="Data/visualizations/Sales_Distribution_by_Pizza_Size.png" alt="Sales Distribution by Pizza Size">
+</p>
+
 
 ### Ingredient Analysis
 
@@ -73,9 +94,17 @@ Plato’s Pizza has achieved 21.4K total orders, selling 49.6K pizzas and genera
 - Menu streamlining: Since unique ingredients drive up costs, optimizing or replacing them with more versatile alternatives can improve overall cost efficiency.
 - Strategic reformulation: Evaluating ingredient necessity in low-performing categories can help eliminate inefficiencies while maintaining quality and variety.
 
-![Ingredient Usage by Total Consumption](Data/visualizations/channel_platform.webp)
-![Ingredient Utilization Across Multiple Pizzas](Data/visualizations/channel_platform.webp)
-![Distribution of Unique Ingredients by Pizza Category](Data/visualizations/channel_platform.webp)
+<p align="center">
+  <img src="Data/visualizations/Ingredient_Usage_by_Total_Consumption.png" alt="Ingredient Usage by Total Consumption">
+</p>
+
+<p align="center">
+  <img src="Data/visualizations/Ingredient_Utilization_Across_Multiple_Pizzas.png" alt="Ingredient Utilization Across Multiple Pizzas">
+</p>
+
+<p align="center">
+  <img src="Data/visualizations/Distribution_of_Unique_Ingredients_by_Pizza_Category.png" alt="Distribution of Unique Ingredients by Pizza Category">
+</p>
 
 ## Recommendations
 
