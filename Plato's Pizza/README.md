@@ -145,7 +145,9 @@ Streamlining Ingredient Management for Cost Savings
 ***
 
 - The data used in this analysis is dummy data obtained from the following source:  [Maven Pizza Challenge](https://www.mavenanalytics.io/blog/maven-pizza-challenge). This dataset is for educational and portfolio purposes only and does not represent real business data.
-- The raw data consists of four CSV files, located in the [`Exploration/Raw Data`](https://github.com/stephanusdario1975/Data_Portfolio/tree/main/Plato's%20Pizza/Exploration/Raw%20Data) folder.
-- See my SQL queries in the [SQL file](Exploration/pizza_exploration.sql).
-- See the notebook for data cleaning, visualization, and analysis in the [Python Notebook](Exploration/ecommerce_analysis.ipynb).
+- The raw dataset comprises four CSV files, which are stored in the [`Exploration/Raw Data`](https://github.com/stephanusdario1975/Data_Portfolio/tree/main/Plato's%20Pizza/Exploration/Raw%20Data) folder.
+- Review the SQL queries used in the analysis in the following [SQL file](Exploration/pizza_exploration.sql).
+- Refer to the notebook used for data preprocessing and loading the processed data into BigQuery: [Python Notebook](Exploration/pizza_preprocessing.ipynb).
+- The preprocessed data has been stored in BigQuery and integrated with Google Looker Studio.
+- The final dashboard can be viewed on [Google Looker Studio](https://lookerstudio.google.com/s/qaxswI7Jqfw).
 - For more of my projects and data journey, visit my [portfolio website and reach out](https://ruizdelcarmen.me/)!
