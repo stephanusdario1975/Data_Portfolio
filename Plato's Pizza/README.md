@@ -25,7 +25,7 @@ Plato's Pizza is a well-established Greek-inspired pizzeria located in New Jerse
 
 Plato’s Pizza has achieved 21.4K total orders, selling 49.6K pizzas and generating $801.94K in revenue, with an average of 2.32 pizzas per order and $16.49 per pizza. Sales data highlights weekday lunch and weekend dinner as peak hours, requiring optimized staffing and preparation to maintain efficiency and service quality. The Classic Deluxe Pizza and Thai Chicken Pizza lead in sales and revenue, reinforcing the need to prioritize Supreme and Classic pizzas, particularly large and medium sizes, which dominate customer preference. Additionally, bulk purchasing of high-usage ingredients like garlic and tomatoes can improve cost efficiency, while reducing reliance on unique ingredients used in a single menu—especially in Veggie and Chicken pizzas, which underperform in revenue contribution. Implementing these strategies will enhance operational efficiency, maximize profitability, and streamline ingredient management.
 
-![Plato's Pizza Operational Analysis Dataset ERD](Data/visualizations/ecommerce_ERD.png)
+![Plato's Pizza Operational Analysis Dataset ERD](Data/visualizations/Plato_Pizza_ERD.png)
 
 ## Insights Deep-Dive
 
