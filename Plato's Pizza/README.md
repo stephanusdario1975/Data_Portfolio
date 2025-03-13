@@ -1,6 +1,6 @@
 # 2015 Plato's Pizza Operational Analysis
 
-> For more information about my projects and data journey, visit my [Portfolio](https://ruizdelcarmen.me/).
+> For more information about my projects and data journey, visit my [Portfolio](https://google.com/).
 
 Table of Contents
 
@@ -19,7 +19,7 @@ Table of Contents
 
 Plato's Pizza is a well-established Greek-inspired pizzeria located in New Jersey, recognized for its authentic flavors and high-quality ingredients. I have been hired to assist the restaurant in optimizing its operations by analyzing transactional data collected in 2015 and providing strategic recommendations for improvement.
 
-![Plato's Pizza Operational Analysis Dashboard](Data/visualizations/ecommerce_ERD.webp)
+![Plato's Pizza Operational Analysis Dashboard](Data/visualization/Dashboard.png)
 
 ## Executive Summary
 
