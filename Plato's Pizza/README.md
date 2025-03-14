@@ -1,6 +1,6 @@
 # 2015 Plato's Pizza Operational Analysis
 
-> For more information about my projects and data journey, visit my [Portfolio](https://google.com/).
+> For more information about my projects and data journey, visit my [Portfolio](https://www.datascienceportfol.io/stephanusdariokohar).
 
 Table of Contents
 
@@ -150,4 +150,4 @@ Streamlining Ingredient Management for Cost Savings
 - Refer to the notebook used for data preprocessing and loading the processed data into BigQuery: [Python Notebook](Exploration/pizza_preprocessing.ipynb).
 - The preprocessed data has been stored in BigQuery and integrated with Google Looker Studio.
 - The final dashboard can be viewed on [Google Looker Studio](https://lookerstudio.google.com/s/qaxswI7Jqfw).
-- For more of my projects and data journey, visit my [portfolio website and reach out](https://ruizdelcarmen.me/)!
+- For more of my projects and data journey, visit my [portfolio website and reach out](https://www.datascienceportfol.io/stephanusdariokohar)!
